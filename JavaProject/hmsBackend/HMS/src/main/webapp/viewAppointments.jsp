@@ -64,7 +64,7 @@
                 <li><a href="index.jsp" onclick="showSection('dashboard')">Dashboard</a></li>
                 <li><a href="index.jsp" onclick="showSection('patients')">Patients</a></li>
                 <li><a href="index.jsp" onclick="showSection('appointments')">Appointments</a></li>
-                <li><a href="#">Billing System</a></li>
+                <li><a href="billing.jsp">Billing System</a></li>
                 <li><a href="index.jsp" onclick="showSection('tokens')">Token System</a></li>
             </ul>
         </nav>

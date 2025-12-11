@@ -18,7 +18,7 @@
                 <li><a href="loadPatients">Patients List</a></li>
                 <li><a href="#" onclick="showSection('appointments')">Appointments</a></li>
                 <li><a href="loadAppointments">Appointments List</a></li>
-                <li><a href="#">Billing System</a></li>
+                <li><a href="billing.jsp">Billing System</a></li>
                 <li><a href="#" onclick="showSection('tokens')">Token System</a></li>
             </ul>
         </nav>
